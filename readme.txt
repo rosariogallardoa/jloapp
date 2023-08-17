@@ -1,13 +1,13 @@
 Descripción
 
-Puedes encontrar más información en la https://github.com/rosariogallardoa/jloapp/Descripción
+Puedes encontrar más información en la https://github.com/rosariogallardoa/jloapp/wiki/Descripción
 
 Problema 
-Puedes encontrar más información en la https://github.com/rosariogallardoa/jloapp/Problema
+Puedes encontrar más información en la https://github.com/rosariogallardoa/jloapp/wiki/Problema
 
 Solución 
-Puedes encontrar más información en la https://github.com/rosariogallardoa/jloapp/Solución
+Puedes encontrar más información en la https://github.com/rosariogallardoa/jloapp/wiki/Solución
 
 Arquitectura
-Puedes encontrar más información en la https://github.com/rosariogallardoa/jloapp/Arquitectura
+Puedes encontrar más información en la https://github.com/rosariogallardoa/jloapp/wiki/Arquitectura
 
