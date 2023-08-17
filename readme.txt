@@ -1,13 +1,10 @@
-Descripción
+TABLA DE CONTENIDO
 
-Puedes encontrar más información en la https://github.com/rosariogallardoa/jloapp/wiki/Descripción
-
-Problema 
-Puedes encontrar más información en la https://github.com/rosariogallardoa/jloapp/wiki/Problema
-
-Solución 
-Puedes encontrar más información en la https://github.com/rosariogallardoa/jloapp/wiki/Solución
-
-Arquitectura
-Puedes encontrar más información en la https://github.com/rosariogallardoa/jloapp/wiki/Arquitectura
+1. Resumen Ejecutivo:  https://github.com/rosariogallardoa/jloapp/wiki/ResumenEjecutivo
+2. Requerimientos:  https://github.com/rosariogallardoa/jloapp/wiki/Requerimientos
+3. Instalación:  https://github.com/rosariogallardoa/jloapp/wiki/Instalación
+4. Configuración:  https://github.com/rosariogallardoa/jloapp/wiki/Configuración
+5. Uso: https://github.com/rosariogallardoa/jloapp/wiki/Uso
+6. Contribución: https://github.com/rosariogallardoa/jloapp/wiki/Contribución
+7. Roadmap https://github.com/rosariogallardoa/jloapp/wiki/Roadmap
 
